@@ -749,8 +749,8 @@ msgid_plural "%s customer reviews"
 msgstr[0] "%s 件のカスタマーレビュー"
 
 #. Name of the theme
-msgid "UnderStrap"
-msgstr "UnderStrap"
+msgid "Umedia"
+msgstr "Umedia"
 
 #. Description of the theme
 msgid ""

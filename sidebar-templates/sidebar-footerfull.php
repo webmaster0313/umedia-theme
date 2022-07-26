@@ -2,7 +2,7 @@
 /**
  * Sidebar setup for footer full
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

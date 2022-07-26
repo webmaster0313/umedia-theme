@@ -1,8 +1,8 @@
 <?php
 /**
- * UnderStrap enqueue scripts
+ * Umedia enqueue scripts
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

@@ -371,8 +371,8 @@ msgid "Save changes"
 msgstr "Spara ändringar"
 
 #. Name of the theme
-msgid "UnderStrap"
-msgstr "UnderStrap"
+msgid "Umedia"
+msgstr "Umedia"
 
 #. Theme URI of the theme
 msgid "http://umedia.com"

@@ -2,7 +2,7 @@
 /**
  * Theme basic setup
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

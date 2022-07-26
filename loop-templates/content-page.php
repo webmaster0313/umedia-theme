@@ -2,7 +2,7 @@
 /**
  * Partial template for content in page.php
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

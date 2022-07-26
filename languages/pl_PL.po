@@ -762,8 +762,8 @@ msgstr[1] "%s opinie klienta"
 msgstr[2] "%s opinii klienta"
 
 #. Name of the theme
-msgid "UnderStrap"
-msgstr "UnderStrap"
+msgid "Umedia"
+msgstr "Umedia"
 
 #. Description of the theme
 msgid ""

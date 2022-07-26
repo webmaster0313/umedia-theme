@@ -2,7 +2,7 @@
 /**
  * Custom header setup
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.
@@ -17,9 +17,9 @@ if ( ! function_exists( 'umedia_custom_header_setup' ) ) {
 	function umedia_custom_header_setup() {
 
 		/**
-		 * Filter UnderStrap custom-header support arguments.
+		 * Filter Umedia custom-header support arguments.
 		 *
-		 * @since UnderStrap 0.5.2
+		 * @since Umedia 0.5.2
 		 *
 		 * @param array $args {
 		 *     An array of custom-header support arguments.

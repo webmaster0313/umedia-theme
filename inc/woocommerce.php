@@ -2,7 +2,7 @@
 /**
  * Add WooCommerce support
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

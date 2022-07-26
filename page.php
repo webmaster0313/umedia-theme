@@ -7,7 +7,7 @@
  * and that other 'pages' on your WordPress site will use a
  * different template.
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

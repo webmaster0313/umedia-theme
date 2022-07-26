@@ -2,7 +2,7 @@
 /**
  * Sidebar - The Hero Canvas Widget Area
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

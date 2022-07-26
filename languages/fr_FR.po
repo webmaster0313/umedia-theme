@@ -756,8 +756,8 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. Name of the theme
-msgid "UnderStrap"
-msgstr "UnderStrap"
+msgid "Umedia"
+msgstr "Umedia"
 
 #. Description of the theme
 msgid ""

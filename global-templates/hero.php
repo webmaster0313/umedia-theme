@@ -2,7 +2,7 @@
 /**
  * Hero setup
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

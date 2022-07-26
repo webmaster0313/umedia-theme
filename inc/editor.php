@@ -1,8 +1,8 @@
 <?php
 /**
- * UnderStrap modify editor
+ * Umedia modify editor
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

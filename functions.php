@@ -1,8 +1,8 @@
 <?php
 /**
- * UnderStrap functions and definitions
+ * Umedia functions and definitions
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

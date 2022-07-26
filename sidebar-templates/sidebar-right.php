@@ -2,7 +2,7 @@
 /**
  * The right sidebar containing the main widget area
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

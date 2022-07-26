@@ -2,7 +2,7 @@
 /**
  * Static hero sidebar setup
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

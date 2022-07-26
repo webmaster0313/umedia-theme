@@ -1,8 +1,8 @@
 <?php
 /**
- * UnderStrap Theme Customizer
+ * Umedia Theme Customizer
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

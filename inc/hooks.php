@@ -2,7 +2,7 @@
 /**
  * Custom hooks
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

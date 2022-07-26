@@ -755,8 +755,8 @@ msgstr[1] "&s отзыва"
 msgstr[2] "&s отзывов"
 
 #. Name of the theme
-msgid "UnderStrap"
-msgstr "UnderStrap"
+msgid "Umedia"
+msgstr "Umedia"
 
 #. Description of the theme
 msgid ""

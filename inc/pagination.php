@@ -2,7 +2,7 @@
 /**
  * Pagination layout
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.

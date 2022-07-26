@@ -2,7 +2,7 @@
 /**
  * Single post partial template
  *
- * @package UnderStrap
+ * @package Umedia
  */
 
 // Exit if accessed directly.
